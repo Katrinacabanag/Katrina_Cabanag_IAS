@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #984C4C;
+}
+
+.container{
+    background-color:#E98D8D;
+    border-radius: 10%;
+    padding: 50px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    width: 620%;
+    height: 650%;
+}
+.row{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    position: relative;
+    justify-content: center;
+    height: 299px;
+    width: 110%;
+    border:5px solid #984C4C;
+}
+
+h1{
+    font-size: 55px;
+    font-weight: 1000;
+    color: #671F1F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4,p{
+    font-weight:1000;
+    font-size: 25px;
+    color: #671F1F;  
+}
+
+.fa-envelope{
+    font-size: 30px;
+    color: #671F1F;
+    padding: 10px;
+}
+
+.fa-facebook{
+    font-size: 30px;
+    color: #671F1F;
+    padding: 5px;
+}
+
+.prog1, .prog2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #671F1F;
+    font-size: 25px;
+    font-weight: 1000;
+}
